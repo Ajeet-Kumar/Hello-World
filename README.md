@@ -1,2 +1,5 @@
 # Hello-World
-Just Another Repository
+Just Another Repositry
+
+Hi Humans.
+It's Ajeet.I like coding and wants to be a good programmer.
